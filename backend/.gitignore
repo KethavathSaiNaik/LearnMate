@@ -1,0 +1,14 @@
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+myvenv/
+env/
+
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd

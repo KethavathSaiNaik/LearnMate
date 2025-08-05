@@ -1,0 +1,6 @@
+/* Apply Poppins as the default font for the entire app */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
