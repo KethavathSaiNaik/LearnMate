@@ -4,6 +4,17 @@ LearnMate-AI is a personalized, AI-powered document learning assistant that help
 
 ---
 
+### 🤖 LLM Capabilities & Intelligence Layer
+
+LearnMate-AI leverages **Large Language Models (LLMs)** at its core to create an adaptive and context-aware learning experience:
+
+- **Document Grounded Reasoning (RAG)** – Combines LLM reasoning power with document-specific embeddings using FAISS and SentenceTransformers to ensure factually grounded responses.
+- **Conversational Querying** – Enables natural language chat with documents, where the LLM retrieves relevant context chunks before generating responses — simulating a true AI tutor.
+- **Adaptive Quiz Generation** – Creates contextual quizzes from the user’s uploaded material, testing conceptual understanding rather than surface-level recall.
+- **Knowledge Evaluation & Feedback** – Uses LLM-assisted grading and feedback to guide users toward areas requiring review.
+
+---
+
 ### 🛠️ Tech Stack & Role in the System
 
 Below is a breakdown of the technologies used in LearnMate-AI and how each one contributes to the overall workflow:
@@ -23,7 +34,6 @@ Below is a breakdown of the technologies used in LearnMate-AI and how each one c
 - **MongoDB** – Stores user data, quiz history, and summaries.
 
 > 🧠 Together, these tools enable a seamless AI-powered learning experience — from document ingestion to interactive learning and evaluation.
-
 
 ### Installation
 
